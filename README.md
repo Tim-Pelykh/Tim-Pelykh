@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Tim-Pelykh
-- 👀 I’m interested in interesting startups, making money and changing the world
-- 🌱 I’m currently Python and its frameworks (Django, Flask)
-- 💞️ I’m looking to collaborate on cool projects
+
 -  E-mail: timpelykh@gmail.com
 
 <!---
